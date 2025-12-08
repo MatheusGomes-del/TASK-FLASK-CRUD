@@ -153,6 +153,9 @@ paths:
 
 Você verá uma interface parecida com esta:
 
+<img src="https://github.com/MatheusGomes-del/TASK-FLASK-CRUD/blob/master/Captura%20de%20tela_2025-12-06_23-11-38-1.png" width="800">
+
+
 🛠️ Tecnologias Utilizadas
 
 Python 3
